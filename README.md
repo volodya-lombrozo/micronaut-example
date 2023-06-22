@@ -1,3 +1,19 @@
+## Demo Micronaut Application
+
+This application is developed for research purposes.
+In order to create runnable jar run the next command:
+```shell
+./mvnw clean package
+```
+Then, you can run the application with the next command:
+```shell
+java -jar target/demo-0.1.jar
+```
+You can run the application in development mode with the next command:
+```shell
+./mvnw mn:run
+```
+
 ## Micronaut 3.9.3 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.9.3/guide/index.html)
