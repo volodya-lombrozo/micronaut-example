@@ -1,3 +1,7 @@
+# Archived
+
+**Attention**: This repository has been deprecated. All new updates are available [here](https://github.com/volodya-lombrozo/oop-vs-procedural/tree/main/cost-of-oop/src/main/profiling/micronaut/micronaut-example).
+
 ## Demo Micronaut Application
 
 This application is developed for research purposes.
